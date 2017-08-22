@@ -10,11 +10,13 @@ package av64;
 public class Av10064 {
 
 	/**
+	 * v64 main -1
+	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+			
 	}
 
 }
